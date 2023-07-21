@@ -1,8 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Test's blog
+description: Test CV
 remote_theme: just-the-docs/just-the-docs
 
 url: https://blakkk-jason.github.io
-
-aux_links:
-  Template Repository: https://github.com/blakkk-jason/blakkk-jason.github.io
